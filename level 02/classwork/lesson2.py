@@ -1,0 +1,5 @@
+print("chemi saxelia mariami")
+print("chemi gvaria tsulukidze")
+print("me var 11 wlis")
+print("dedikos saxeli da gvari: ketevan chalagashvili")
+print("me miyvars: chaqafuli,xinkali")
